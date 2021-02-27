@@ -1,6 +1,66 @@
-.foto {
-  border: 4px solid #ffc700;
-  border-radius: 25%;
-  margin-bottom: -130px;
-  margin-right: 24px;
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: normal;
+  font-size: 64px;
 }
+
+h1,
+body,
+p {
+  margin: 0;
+}
+
+h1 {
+  margin-bottom: -40px;
+  margin-right: 70px;
+}
+
+
+h1 span {
+  font-weight: bold;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.body {
+  background-color: #e5e5e5;
+}
+
+.header {
+  background-color: white;
+  padding: 32px 64px;
+}
+
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em
+}
+
+.dados {
+  display: inline-block;
+  margin-bottom: 100px;
+}
+
+.foto {
+  border: 4px solid #a9a9a9;
+  border-radius: 100%;
+  margin-bottom: -80px;
+  margin-right: 50px;
+}
+
+.profissao {
+  margin-top: 32px;
+}
+
+.t60 {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.coluna {
+  margin-left: 300px;
+}
+
+
